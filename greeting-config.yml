@@ -1,0 +1,8 @@
+security:
+  basic:
+    enabled: false #turn off security on application endpoints
+
+management:
+  security:
+    enabled: false #turn off secure actuator endpoints
+

@@ -1,3 +1,4 @@
 name: Hello Client Config
 
-config-client.greeting=World
+config-client:
+  greeting: World

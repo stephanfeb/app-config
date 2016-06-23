@@ -1,3 +1,6 @@
+failuremode:
+  greeting: "Hello CF Peeps!"
+
 funky:
   cloud:
     greeting: "Hello CF Meetup !"

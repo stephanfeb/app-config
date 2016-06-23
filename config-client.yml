@@ -1,3 +1,4 @@
 funky:
   cloud:
     greeting: "Hello CF Meetup !"
+    encrypted: '{cipher}8079624b6cc92e709cc4fce7f4a9ff699badc3bfcffbfa64a7cf0f997b07c9a1'
